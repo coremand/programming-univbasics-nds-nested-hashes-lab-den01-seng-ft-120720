@@ -20,7 +20,8 @@ def literal_aoh
   
   names_2 = [{ name:  "Don Gately", occupation: "Live-in Staff" },
   { name:  "Joelle van Dyne", occupation: "Radio Personality" },
-  ]
+    { name:  "Pat Monteseian", occupation: "Staff" },
+    ]
 end
 
 def aoh_lookup(aoh, row, key)
