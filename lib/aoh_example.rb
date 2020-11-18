@@ -19,6 +19,7 @@ def literal_aoh
   # held in the constants
   
   names_2 = [{ name:  "Don Gately", occupation: "Live-in Staff" },
+  { name:  "Joelle van Dyne", occupation: "Radio Personality" },
   ]
 end
 
