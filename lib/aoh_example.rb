@@ -18,7 +18,8 @@ def literal_aoh
   # Using Array literal syntax only, build a nested array that uses the data in
   # held in the constants
   
-  names_2 = []
+  names_2 = [{ name:  "Don Gately", occupation: "Live-in Staff" },
+  ]
 end
 
 def aoh_lookup(aoh, row, key)
